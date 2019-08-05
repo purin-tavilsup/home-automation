@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"G5RL-K1A-E";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-12082015-084990";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"PCB Power Relay, Double-winding latching, SPST-NO (1a)";"";
+"TraceParts.InstanceId";"10-12082015-0849906YD975GRYDUYR700RE2BRE4K7";"";
+"TraceParts.PartTitle";"PCB Power Relay – G5RL-U/-K";"";
+"OMNICLASS23";"23.35.43.00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"OMRON:/F_OMRON/OMRON.030/OMRON.030.040/OMRON.030.040.060/10-12082015-084990";"";

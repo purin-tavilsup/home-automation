@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Workspace\PCB Projects\Power_Switch_2\PowerSwitch.PcbDoc
+Date         : 2019-08-02
+Time         : 10:41:57 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 96.55%
+    Connections, 29
+    Connections routed, 28
+    Connections remaining, 1
+count : 4

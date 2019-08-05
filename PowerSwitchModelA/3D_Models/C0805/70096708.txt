@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"C0805C224K3RACTU";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70096708";"";
+"TraceParts.PartNumber";"10-12012018-080588";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"0805 X7R ceramic capacitor, 25V 0.22uF";"";
+"TraceParts.InstanceId";"10-12012018-0805886L8FIRU2IWNR15ZXZWJG4PNDT";"";
+"TraceParts.PartTitle";"0805 X7R ceramic capacitor, 25V 0.22uF";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/ALLIED_ELECTRONICS/PSSS_432964/PSS_432965/PSF_432971/";"";
