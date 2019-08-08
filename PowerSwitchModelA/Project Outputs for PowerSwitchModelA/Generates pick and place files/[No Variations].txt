@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+D:\Workspace\Git\home-automation\PowerSwitchModelA\Project Outputs for PowerSwitchModelA\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07-08-19
+Time:       23:11
+Revision:   50fec1b52d07a22f5dba5f26c12125c385b3c90c
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer       Footprint    Center-X(mil) Center-Y(mil) Rotation Description                                                                              
+U1         Relay_Driver           BottomLayer FAN324X      2039.370      891.142       180      "FAN3240TMX, Dual-Channel Latching Relay Driver"                                         
+R1         10Ohms                 BottomLayer R0805        1972.441      1161.417      360      "10 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film"                  
+PS1        AC_DC_Converter_12V_5W TopLayer    RAC05-K/277  649.606       826.772       90       "Enclosed AC DC Converter 1 Output 12V    416mA 85 ~ 305 VAC, 120 ~ 430 VDC Input"       
+K1         Latching_Relay         TopLayer    G5RL-K1A-E   1624.016      590.551       270      "General Purpose Relay, G5rl-K Series, Power, Latching Dual Coil, Spst-No, 12 Vdc, 16 A" 
+J4         AC-L                   TopLayer    AC-HEADER    2204.724      177.165       180      ""                                                                                       
+J3         AC-L                   TopLayer    AC-HEADER    1043.307      177.165       180      ""                                                                                       
+J2         Ctrl_Header            TopLayer    CTRL-HEADER  2460.630      1003.937      360      ""                                                                                       
+J1         AC-N                   TopLayer    AC-HEADER    255.905       177.165       0        ""                                                                                       
+D3         1N4148                 BottomLayer 1N4148SOD123 2114.173      1230.315      90       "Small Signal Diode, Single, 100 V, 300 Ma, 1.25 V, 4 Ns, 2 A Rohs Compliant: Yes"       
+D2         1N4148                 BottomLayer 1N4148SOD123 1702.756      916.142       360      "Small Signal Diode, Single, 100 V, 300 Ma, 1.25 V, 4 Ns, 2 A Rohs Compliant: Yes"       
+D1         1N4148                 BottomLayer 1N4148SOD123 1539.370      885.039       270      "Small Signal Diode, Single, 100 V, 300 Ma, 1.25 V, 4 Ns, 2 A Rohs Compliant: Yes"       
+C3         1uF                    BottomLayer C0805        1972.441      1062.992      180      "1µF ±10% 35V Ceramic Capacitor X7R 0805 (2012 Metric)"                                  
+C2         0.22uF                 BottomLayer C0805        2190.945      1062.992      360      "0.22µF ±10% 50V Ceramic Capacitor X7R 0805 (2012 Metric)"                               
+C1         10uF                   BottomLayer C0805        1669.291      1230.315      180      "10µF ±10% 16V Ceramic Capacitor X7R 0805 (2012 Metric)"                                 
